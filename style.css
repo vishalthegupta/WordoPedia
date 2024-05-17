@@ -1,0 +1,90 @@
+body {
+    color: #fff;
+    background-color: #232E3B;
+    font-family: 'Arial', sans-serif;
+    height: 70vh;
+    transition: background-color 1s ease-in-out, color 0.5s ease;
+}
+
+.bdb {
+    color: #eeeeee;
+    color: #282727;
+}
+
+.input {
+    width: 600px;
+    height: 450px;
+    border-radius: 12px;
+    border: 5px solid #708090;
+    font-size: 21px;
+    margin-left: 20px;
+}
+
+.right {
+    position: relative;
+    left: 650px;
+    bottom: 535px;
+    width: 35%;
+    padding-top: 30px;
+}
+
+.right ul li {
+    list-style: none;
+    padding: 8px;
+    margin: 0;
+}
+
+.All-buttons {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.count {
+    position: relative;
+    top: 30px;
+    left: 275px;
+}
+
+.btn-prop {
+    padding: 6px 8px;
+    color: #212121;
+    /* background-color: #4CAF50; */
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.Conversion button {
+    margin-left: 10px;
+    margin-right: 40px;
+}
+
+.btn-prop:hover {
+    transform: scale(1.1);
+    transition: background-color 0.3s ease, color 0.3s ease, transform 0.3s ease;
+}
+
+.header {
+    text-align: center;
+}
+
+.container {
+    position: relative;
+    bottom: 40px;
+    height: 70vh;
+}
+
+.darkMode {
+    height: 30px;
+    filter: invert(100%);
+    position: relative;
+    left: 96%;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+/* Added CSS */
+
+.right {
+    cursor: pointer;
+}
