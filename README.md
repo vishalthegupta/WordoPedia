@@ -16,7 +16,11 @@ Welcome to **WordoPedia**, a comprehensive text analysis tool designed to provid
 
 ## Preview
 
-![WordoPedia Preview](path/to/your/image.png)
+![WordoPedia Preview]
+
+(https://github.com/vishalthegupta/WordoPedia/blob/main/Screenshot%20(59).png) 
+
+
 
 ## Getting Started
 
