@@ -18,9 +18,9 @@ Welcome to **WordoPedia**, a comprehensive text analysis tool designed to provid
 
 ![WordoPedia Preview]
 
-(https://github.com/vishalthegupta/WordoPedia/blob/main/Screenshot%20(59).png) 
+https://github.com/vishalthegupta/WordoPedia/blob/main/Screenshot%20(59).png
 
-
+https://github.com/vishalthegupta/WordoPedia/blob/main/Screenshot%20(60).png
 
 ## Getting Started
 
